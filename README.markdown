@@ -1,4 +1,4 @@
-# How to connect to Earlham's Email Server
+# How to connect to Earlham's Zimbra Email Server
 
 # Mail Settings
 ## IMAP:
