@@ -2,7 +2,7 @@
 
 # Mail Settings
 ## IMAP:
-- Server: zibra.ealham.edu
+- Server: zimbra.earlham.edu
 - Port: 143 or 993
 - Use SSL / TLS
 
