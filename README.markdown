@@ -109,7 +109,9 @@ Make sure `Use Authentication` is checked.
 ![Apple Mail Step One](Mail/step5.png)
 <!--- ![Apple Mail Step One](Mail/step5.png) --->
 
-# Tips: - Your email password is likely the same as the one you set
-for [The Heart](https://theheart.earlham.edu/cp/home/displaylogin). -
-The IMAP and SMTP server information was found
-[here](http://scs.earlham.edu/zimbra-imap-and-smtp-information).
+# Tips:
+- Your email password is likely the same as the one you set for 
+  [The Heart](https://theheart.earlham.edu/cp/home/displaying).
+
+- The IMAP and SMTP server information was found
+  [here](http://scs.earlham.edu/zimbra-imap-and-smtp-information).
